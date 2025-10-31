@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Привет, я Надежда Лукошкина  
 
-<!--
-**nlukoshkina-06/nlukoshkina-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Студентка 2 курса факультета Финансов Президентской Академии**  
+💼 Направление — *Управление бизнесом: цифровые платформы, аналитика и экосистемы*  
+📍 Москва, Россия  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Обо мне  
+
+Я изучаю бизнес-аналитику и цифровые технологии управления.  
+Интересуюсь аналитикой данных, разработкой Telegram-ботов и проектами на стыке бизнеса и IT.  
+Люблю видеть результаты своей работы и создавать инструменты, которые приносят пользу.  
+
+---
+
+## 🚀 Мои направления  
+
+- Python и автоматизация  
+- Аналитика данных и визуализация  
+- GitHub и управление проектами  
+- Цифровые экосистемы  
+- Телеграм-боты и API  
+
+---
+
+## 🧩 Текущий проект  
+
+**Poizon Price Bot** — Telegram-бот, рассчитывающий итоговую стоимость товара с платформы *Poizon*.  
+Бот автоматически получает курс юаня, добавляет доставку и рассчитывает наценку для определения прибыли.  
+
+*(Ссылка на проект появится позже)*  
+
+---
+
+## 🛠 Навыки и технологии  
+
+`Python` • `Aiogram` • `Pandas` • `Git` • `Markdown` • `Virtual Environment (venv)` • `VS Code` • `Power BI (начальный уровень)` • `Excel`  
+
+---
+
+## 🌐 Связаться со мной  
+
+**GitHub:** [nlukoshkina-06](https://github.com/nlukoshkina-06)  
+**email:** lukoshina.N@yandex.ru
+**TG:** lukkosh
